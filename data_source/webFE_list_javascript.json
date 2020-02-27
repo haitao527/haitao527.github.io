@@ -59,6 +59,15 @@
             "date": "2017-11-25",
             "category": "JavaScript",
             "readUrl":"https://www.yuque.com/docs/share/aa148f70-6ab8-4b52-926f-ad9d8d5e267e"
+        },
+        {
+            "id": 26,
+            "title": "链表",
+            "author": "caohaitao",
+            "date": "2017-12-25",
+            "category": "JavaScript",
+            "urlTitle":"linknode",
+            "readUrl":"https://www.yuque.com/docs/share/1fdbb294-0d1f-48e8-ab4f-71cd33cd84ba?#"
         }
        
     ]
