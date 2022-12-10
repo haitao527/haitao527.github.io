@@ -13,11 +13,7 @@
     <link rel="shortcut icon" href="https://blog-vue.oss-cn-beijing.aliyuncs.com/icon/favicon.ico" />
     <title>caohaitao.cc</title>
     <link rel="stylesheet" href="//at.alicdn.com/t/font_778756_jwlfyo3xabi.css">
-    <script>
-        if (document.body.clientWidth <= 768) {
-            window.location.href = "/index-mobile";
-        }
-    </script>
+
     <script type="text/javascript">
         (function flexible(window, document) {
             var docEl = document.documentElement;
@@ -51,6 +47,11 @@
     </div>
 
 <script type="text/javascript" src="/vendor.js"></script><script type="text/javascript" src="/index.js"></script></body>
+<script>
+    if (document.body.clientWidth <= 768) {
+        window.location.href = "/index-mobile";
+    }
+</script>
 <script type="text/javascript">
     var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
     document.write(unescape("%3Cspan id='cnzz_stat_icon_1274947564'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1274947564%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));
