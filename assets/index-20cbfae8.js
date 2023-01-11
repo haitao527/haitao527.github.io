@@ -1,0 +1,1 @@
+import{_ as o}from"./variable-24519989.js";import{o as r,c as s,D as t}from"./symbols-a5750b6c.js";const a={},c={class:"wrapper-100vh"};function n(e,p,_,d,f,i){return r(),s("div",c,[t(e.$slots,"default")])}const $=o(a,[["render",n]]);export{$ as W};
