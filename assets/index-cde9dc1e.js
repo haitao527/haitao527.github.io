@@ -1,0 +1,1 @@
+import{_ as o}from"./variable-a4637b51.js";import{o as s,c,f as e}from"./symbols-2aef84fb.js";const n={},t={class:"mask"},a=e("div",{class:"iconfont icon-jiazai ignore-loading"},null,-1),i=[a];function r(_,d){return s(),c("div",t,i)}const m=o(n,[["render",r]]);export{m as L};
